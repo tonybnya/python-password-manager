@@ -1,0 +1,2 @@
+# Create 'text_files/' in the current folder.
+# Store into the defined file 'manual.txt', manual to properly run the script.

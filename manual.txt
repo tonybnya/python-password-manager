@@ -1,0 +1,13 @@
+
+# MANUAL:
+# 
+# LAUNCH THE SCRIPT WITH SOME DEFINED OPTIONS FROM TERMINAL.                  |
+# DEFINE SOME OPTIONS TO TYPE IN DIRECTLY IN THE SHELL.                       |
+#                                                                             |
+# `-a` to add a new password.                                                 |
+# `-g` to get a password.                                                     |
+# `-d` to delete a password.                                                  |
+# `-v` to view all the passwords.                                             |
+#                                                                             |
+# Check if the terminal prompt have more than 2 arguments.                    |
+# Launch the script instead : `python pwdm.py -arg`.
